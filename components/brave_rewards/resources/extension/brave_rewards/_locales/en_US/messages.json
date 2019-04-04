@@ -408,5 +408,13 @@
   "turnOnAds": {
     "message": "Turn on Ads",
     "description": "Prompt to turn on Ads via notification"
+  },
+  "twitterTipsHoverText": {
+    "message": "Tip",
+    "description": "Hover text for Twitter tips action"
+  },
+  "twitterTipsIconLabel": {
+    "message": "Tip",
+    "description": "Icon label for Twitter tips"
   }
 }
