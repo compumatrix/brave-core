@@ -360,7 +360,7 @@
             "type": "integer"
           },
           {
-            "name": "publisherKey",
+            "name": "userId",
             "type": "string"
           },
           {
