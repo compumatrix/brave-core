@@ -372,6 +372,10 @@
             "type": "string"
           },
           {
+            "name": "tweetId",
+            "type": "string"
+          },
+          {
             "name": "tweetText",
             "type": "string"
           }
